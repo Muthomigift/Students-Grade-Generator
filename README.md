@@ -1,1 +1,1 @@
-Uses CSV, JSON, AND io to classify student inputs into names, average marks scored, grade attained by each student and a note for every student. It finally gives the class average score and total number of students recorded and extracts a nested JSON response.
+Uses CSV, JSON, and io to classify student inputs into names, average marks scored, grade attained by each student and a note for every student. It finally gives the class average score and total number of students recorded and extracts a nested JSON response.
